@@ -21,7 +21,7 @@
     "@fontsource/fugaz-one": "^5.1.1",
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
-    "astro": "^5.1.1",
+    "astro": "^5.5.6",
     "astro-netlify-components": "^0.2.1",
     "astro-robots-txt": "^1.0.0",
     "nodemailer": "^6.9.16",

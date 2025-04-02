@@ -11,7 +11,7 @@ import netlify from "@astrojs/netlify";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://magicpuddle.netlify.app',
-  integrations: [mdx(), sitemap(), robotsTxt()],
+  integrations: [mdx(), sitemap(), robotsTxt(), ],
   output: 'server',
   publish: 'dist',
   adapter: netlify({

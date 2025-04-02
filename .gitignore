@@ -27,3 +27,5 @@ pnpm-debug.log*
 # Local Netlify folder
 .netlify
 
+node_modules
+node_modules_old
